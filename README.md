@@ -1,7 +1,7 @@
-Finance Dashboard
-📊 Sobre o Projeto
+**Finance Dashboard**
+📊 *Sobre o Projeto*
 Este é um dashboard financeiro desenvolvido como parte de um trabalho de extensão. A aplicação permite visualizar, analisar e gerenciar dados financeiros de forma intuitiva e eficiente.
-🚀 Funcionalidades
+🚀 *Funcionalidades*
 
 Visualização de dados financeiros em tempo real
 Gráficos e estatísticas para análise de desempenho
@@ -9,7 +9,7 @@ Gerenciamento de despesas e receitas
 Relatórios personalizáveis
 Interface responsiva e amigável
 
-🛠️ Tecnologias Utilizadas
+🛠️ *Tecnologias Utilizadas*
 
 Frontend:
 
@@ -26,7 +26,7 @@ MongoDB / PostgreSQL
 
 
 
-📋 Pré-requisitos
+📋 *Pré-requisitos*
 
 Node.js (versão 14.x ou superior)
 NPM ou Yarn
