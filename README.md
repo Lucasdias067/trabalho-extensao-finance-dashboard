@@ -1,4 +1,4 @@
-**Finance Dashboard**
+**Finance Dashboard** <br/>
 📊 *Sobre o Projeto*
 Este é um dashboard financeiro desenvolvido como parte de um trabalho de extensão. A aplicação permite visualizar, analisar e gerenciar dados financeiros de forma intuitiva e eficiente.
 🚀 *Funcionalidades*
