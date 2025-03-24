@@ -16,14 +16,16 @@ Frontend:
 
 React.js
 Material UI / Tailwind CSS
-Chart.js / D3.js
+Chart.js 
 
 
 Backend:
 
 Node.js
 Express
-MongoDB / PostgreSQL
+SQLite
+Zod
+Prisma
 
 
 
