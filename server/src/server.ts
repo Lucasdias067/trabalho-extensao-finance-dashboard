@@ -32,22 +32,6 @@ app.get("/transactions", async (_req, res) => {
   res.json(transactions);
 });
 
-app.put("/transactions/:id", async (req, res) => {
-  try {
-    const { id } = req.params;
-    const data = transactionSchema.parse(req.body);
-
-    const updatedTransaction = await prisma.transaction.update({
-      where: { id },
-      data,
-    });
-
-    res.json(updatedTransaction);
-  } catch (error) {
-    res.status(400).json({ error: "Invalid data or transaction not found" });
-  }
-});
-
 app.delete("/transactions/:id", async (req, res) => {
   try {
     const { id } = req.params;
